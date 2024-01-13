@@ -25,7 +25,7 @@ Explore the powerful commands of StaffChatDM designed to enhance communication o
 
 ## **Need Additional Help?**
 
-Join Our Support Discord: Join our support Discord server to discuss your ideas, suggestions, and get answers to any questions you may have about StaffChatDM.
+Join Our Support (Discord)[https://discord.gg/jZjcGmqwP8]: Join our support (Discord)[https://discord.gg/jZjcGmqwP8] server to discuss your ideas, suggestions, and get answers to any questions you may have about StaffChatDM.
 
 ---
 
@@ -56,4 +56,4 @@ Explora los comandos poderosos de StaffChatDM diseñados para mejorar la comunic
 
 ## **¿Necesitas Ayuda Adicional?**
 
-Únete a Nuestro Discord de Soporte: Únete a nuestro servidor de Discord de soporte para discutir tus ideas, sugerencias y obtener respuestas a cualquier pregunta que puedas tener sobre StaffChatDM.
+Únete a Nuestro (Discord)[https://discord.gg/jZjcGmqwP8] de Soporte: Únete a nuestro servidor de (Discord)[https://discord.gg/jZjcGmqwP8] de soporte para discutir tus ideas, sugerencias y obtener respuestas a cualquier pregunta que puedas tener sobre StaffChatDM.
